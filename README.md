@@ -12,7 +12,7 @@ Currently this project displays the data in the terminal window and also generat
 
 Ideal dark times with duration example (sheet1 in .xlsx file):
 
-![Current darkSkyTimes](CalculatedOutput.jpg)
+![CalculatedOutput](https://github.com/user-attachments/assets/02439d7a-287a-45a8-b3fd-99e1ddda7497)
 
 Raw data output example (sheet2 in .xlsx file):
 
